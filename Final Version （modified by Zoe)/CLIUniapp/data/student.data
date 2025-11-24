@@ -1,0 +1,53 @@
+[
+    {
+        "id": "904998",
+        "name": "l",
+        "email": "john.smith@university.com",
+        "password": "Helloworld123",
+        "subjects": [
+            {
+                "id": "092",
+                "mark": 67,
+                "grade": "C"
+            },
+            {
+                "id": "981",
+                "mark": 34,
+                "grade": "F"
+            },
+            {
+                "id": "326",
+                "mark": 71,
+                "grade": "C"
+            },
+            {
+                "id": "094",
+                "mark": 52,
+                "grade": "P"
+            }
+        ]
+    },
+    {
+        "id": "669712",
+        "name": "Victor Ye",
+        "email": "victor.ye@university.com",
+        "password": "Victor1996",
+        "subjects": [
+            {
+                "id": "187",
+                "mark": 56,
+                "grade": "P"
+            },
+            {
+                "id": "803",
+                "mark": 26,
+                "grade": "F"
+            },
+            {
+                "id": "061",
+                "mark": 51,
+                "grade": "P"
+            }
+        ]
+    }
+]
